@@ -1,2 +1,2 @@
-£ My portfolio
+# My portfolio
 this is my portfolio
